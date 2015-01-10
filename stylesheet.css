@@ -9,7 +9,7 @@ html, body {
 .wrapper {
 	min-height: 100%;
 	height: auto;
-	margin: 0 auto -4em;
+	padding: 0 auto -4em;
 	color: #000;
 	max-width: 960px;
 }
