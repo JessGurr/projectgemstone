@@ -8,7 +8,7 @@ html, body {
 
 .wrapper {
 	min-height: 100%;
-	height: auto !important;
+	height: auto;
 	height: 100%;
 	margin: 0 auto -4em;
 	color: #000;
@@ -234,9 +234,9 @@ hr {
 
 
 .amp {
-font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
-font-style: italic;
-font-weight: normal;
+	font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
+	font-style: italic;
+	font-weight: normal;
 }
 
 
