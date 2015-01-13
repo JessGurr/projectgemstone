@@ -150,8 +150,9 @@ div ul li.nav {
 }
 
 .quote {
-	background-color: #FF3385;
-	padding: 50px;
+	background-color: #ef558e;
+	padding-top: 50px;
+	padding-bottom: 80px;
 }
 
 .quotetext {
