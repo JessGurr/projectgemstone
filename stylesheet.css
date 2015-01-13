@@ -149,8 +149,12 @@ div ul li.nav {
 	color: #ec0080;
 }
 
-
 .quote {
+	background-color: #FF3385;
+	padding: 50px;
+}
+
+.quotetext {
 	font-family: 'Merriweather', serif;
 	font-weight: 400;
 	font-style: italic;
