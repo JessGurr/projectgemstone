@@ -149,11 +149,22 @@ div ul li.nav {
 	color: #ec0080;
 }
 
+
+.quote {
+	min-height: 100%;
+	height: auto;
+	margin: 0 auto -4em;
+	color: #000;
+	max-width: 960px;
+}
+
+
 .quotebg {
 	background-color: #ef558e;
 	padding-top: 50px;
 	padding-bottom: 80px;
 }
+
 
 .quotetext {
 	font-family: 'Merriweather', serif;
