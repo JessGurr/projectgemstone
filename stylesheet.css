@@ -7,9 +7,8 @@ html, body {
 
 
 .wrapper {
-	min-height: 100%;
 	height: auto;
-	margin: 0 auto -4em;
+	margin: 0 auto;
 	color: #000;
 	max-width: 960px;
 }
@@ -148,15 +147,6 @@ div ul li.nav {
 
 #about a:hover {
 	color: #ec0080;
-}
-
-
-.quote {
-	min-height: 100%;
-	height: auto;
-	margin: 0 auto -4em;
-	color: #000;
-	max-width: 960px;
 }
 
 
